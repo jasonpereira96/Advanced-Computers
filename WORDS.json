@@ -1,0 +1,707 @@
+{
+    "Common Words I": {
+        "galvanize": {
+            "word": "galvanize",
+            "meaning": "verb: to excite or inspire (someone) to action",
+            "sentence": "At mile 23 of his first marathon, Kyle had all but given up, until he noticed his friends and family holding a banner that read, “Go Kyle”; galvanized, he broke into a gallop, finishing the last three miles in less than 20 minutes."
+        },
+        "equivocal": {
+            "word": "equivocal",
+            "meaning": "adjective: confusing or ambiguous",
+            "sentence": "The findings of the study were equivocal—the two researchers had different opinions on what the results signified."
+        },
+        "harangue": {
+            "word": "harangue",
+            "meaning": "noun: a long pompous speech; a tirade",
+            "sentence": "Dinner at Billy's was more a punishment than a reward, since anyone who sat at the dinner table would have to listen to Billy's father's interminable harangues against the government. "
+        },
+        "impertinent": {
+            "word": "impertinent",
+            "meaning": "adjective: being disrespectful; improperly forward or bold",
+            "sentence": "Dexter, distraught over losing his pet dachshund, Madeline, found the police officer’s questions impertinent—after all, he thought, did she have to pry into such details as to what Madeline’s favorite snack was?"
+        },
+        "egregious": {
+            "word": "egregious",
+            "meaning": "adjective: standing out in a negative way; shockingly bad",
+            "sentence": "The dictator’s abuse of human rights was so egregious that many world leaders demanded that he be tried in an international court for genocide. "
+        },
+        "venality": {
+            "word": "venality",
+            "meaning": "noun: the condition of being susceptible to bribes or corruption",
+            "sentence": "Even some of the most sacred sporting events are not immune to venality, as many of the officials have received substantial bribes to make biased calls."
+        },
+        "parsimonious": {
+            "word": "parsimonious",
+            "meaning": "adjective: extremely frugal; miserly",
+            "sentence": "Katie is so parsimonious that she only buys a pair of socks if all of her other socks have holes in them."
+        },
+        "commensurate": {
+            "word": "commensurate",
+            "meaning": "adjective: to be in proportion or corresponding in degree or amount",
+            "sentence": "The convicted felon’s life sentence was commensurate with the heinousness of his crime."
+        },
+        "parochial": {
+            "word": "parochial",
+            "meaning": "adjective: narrowly restricted in scope or outlook ",
+            "sentence": "Jasmine was sad to admit it, but her fledgling relationship with Jacob did not work out because his culinary tastes were simply too parochial; \"After all,\" she quipped on her blog, \"he considered Chef Boyardee ethnic food.\""
+        },
+        "upbraid": {
+            "word": "upbraid",
+            "meaning": "verb: to reproach; to scold",
+            "sentence": "Bob took a risk walking into the \"Students Barbershop\"—in the end he had to upbraid the apparently drunk barber for giving him an uneven bowl cut."
+        },
+        "involved": {
+            "word": "involved",
+            "meaning": "adjective: complicated, and difficult to comprehend",
+            "sentence": "The physics lecture became so involved that the undergraduate’s eyes glazed over."
+        },
+        "frugal": {
+            "word": "frugal",
+            "meaning": "adjective: not spending much money (but spending wisely)",
+            "sentence": "Monte was no miser, but was simply frugal, wisely spending the little that he earned."
+        },
+        "castigate": {
+            "word": "castigate",
+            "meaning": "verb: to reprimand harshly",
+            "sentence": "Drill sergeants are known to castigate new recruits so mercilessly that the latter often break down during their first week in training."
+        },
+        "demur": {
+            "word": "demur",
+            "meaning": "verb: to object or show reluctance",
+            "sentence": "Wallace disliked the cold, so he demurred when his friends suggested they go skiing in the Alps."
+        },
+        "ingenuous": {
+            "word": "ingenuous",
+            "meaning": "adjective: to be naïve and innocent",
+            "sentence": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fall for any ruse, regardless of how elaborate. "
+        },
+        "prevaricate": {
+            "word": "prevaricate",
+            "meaning": "verb: to speak in an evasive way",
+            "sentence": "The cynic quipped, “There is not much variance in politicians; they all seem to prevaricate”. "
+        },
+        "vindicate": {
+            "word": "vindicate",
+            "meaning": "verb: to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof",
+            "sentence": "Even seven Tour de France wins cannot vindicate Lance Armstrong in the eyes of the public--that the athlete used performance enhancing drugs invalidates all those wins. "
+        },
+        "amenable": {
+            "word": "amenable",
+            "meaning": "adjective: easily persuaded",
+            "sentence": "Even though she did not like the outdoors, Shirley was generally amenable and so her brother was able to persuade her to go camping. "
+        },
+        "ambivalent": {
+            "word": "ambivalent",
+            "meaning": "adjective: mixed or conflicting emotions about something",
+            "sentence": "Sam was ambivalent about studying for the exam because doing so ate up a lot of his time, yet he was able to improve his analytical skills. "
+        },
+        "venerate": {
+            "word": "venerate",
+            "meaning": "verb: to respect deeply",
+            "sentence": "The professor, despite his sleep-inducing lectures, was venerated amongst his colleagues, publishing more papers yearly than all of his peers combined."
+        },
+        "intimate": {
+            "word": "intimate",
+            "meaning": "verb: to suggest something subtly",
+            "sentence": "At first Manfred’s teachers intimated to his parents that he was not suited to skip a grade; when his parents protested, teachers explicitly told them that, notwithstanding the boy’s precocity, he was simply too immature to jump to the 6th grade."
+        },
+        "artful": {
+            "word": "artful",
+            "meaning": "adjective: exhibiting artistic skill",
+            "sentence": "Picasso is generally considered the most artful member of the Cubist movement."
+        },
+        "mercurial": {
+            "word": "mercurial",
+            "meaning": "adjective: (of a person) prone to unexpected and unpredictable changes in mood",
+            "sentence": "The fact that Ella’s moods were as mercurial as the weather was problematic for her relationships—it didn’t help that she lived in Chicago."
+        },
+        "disinterested": {
+            "word": "disinterested",
+            "meaning": "adjective: unbiased; neutral",
+            "sentence": "The potential juror knew the defendant, and therefore could not serve on the jury, which must consist only of disinterested members."
+        },
+        "calumny": {
+            "word": "calumny",
+            "meaning": "noun: making of a false statement meant to injure a person’s reputation",
+            "sentence": "With the presidential primaries well under way, the air is thick with calumny, and the mud already waist-high."
+        },
+        "acrimony": {
+            "word": "acrimony",
+            "meaning": "noun: bitterness and ill will",
+            "sentence": "The acrimony between the president and vice-president sent a clear signal to voters: the health of the current administration was imperiled. "
+        },
+        "Magoosh": {
+            "word": "Magoosh",
+            "meaning": "noun: An online GRE prep product used by tens of thousands of students worldwide. Learn more at gre.magoosh.com.",
+            "sentence": "After using Magoosh, Tom improved his GRE score by 8 points and was then admitted into UC Berkeley."
+        },
+        "undermine": {
+            "word": "undermine",
+            "meaning": "verb: to weaken (usually paired with an abstract term)",
+            "sentence": "The student undermined the teacher’s authority by questioning the teacher’s judgment on numerous occasions."
+        },
+        "iconoclast": {
+            "word": "iconoclast",
+            "meaning": "noun: somebody who attacks cherished beliefs or institutions",
+            "sentence": "Lady Gaga, in challenging what it means to be clothed, is an iconoclast for wearing a \"meat dress\" to a prominent awards show."
+        },
+        "wanting": {
+            "word": "wanting",
+            "meaning": "adjective: lacking",
+            "sentence": "She did not think her vocabulary was wanting, yet there were so many words that inevitably she found a few she didn't know."
+        },
+        "laconic": {
+            "word": "laconic",
+            "meaning": "adjective: (describes a person, speech, or style of writing) using very few words",
+            "sentence": "While Martha always swooned over the hunky, laconic types in romantic comedies, her boyfriends inevitably were very talkative—and not very hunky."
+        },
+        "amorphous": {
+            "word": "amorphous",
+            "meaning": "adjective: shapeless",
+            "sentence": "His study plan for the GRE was at best amorphous; he would do questions from random pages in any one of seven test prep books. "
+        },
+        "innocuous": {
+            "word": "innocuous",
+            "meaning": "adjective: harmless and doesn’t produce any ill effects",
+            "sentence": "Everyone found Nancy’s banter innocuous—except for Mike, who felt like she was intentionally picking on him."
+        },
+        "enervate": {
+            "word": "enervate",
+            "meaning": "verb: to sap energy from",
+            "sentence": "John preferred to avoid equatorial countries; the intense sun would always leave him enervated after he’d spent the day sightseeing."
+        },
+        "extant": {
+            "word": "extant",
+            "meaning": "adjective: still in existence (usually refers to documents).",
+            "sentence": "Despite many bookstores closing, experts predict that some form of book dealing will still be extant generations from now."
+        },
+        "qualify": {
+            "word": "qualify",
+            "meaning": "verb: to make less severe; to limit (a statement)",
+            "sentence": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Los Angeles."
+        },
+        "restive": {
+            "word": "restive",
+            "meaning": "adjective: restless",
+            "sentence": "The crowd grew restive as the comedian’s opening jokes fell flat."
+        },
+        "betray": {
+            "word": "betray",
+            "meaning": "verb: to reveal or make known something, usually unintentionally",
+            "sentence": "With the gold medal at stake, the gymnast awaited his turn, his quivering lip betraying his intense emotions."
+        },
+        "anomalous": {
+            "word": "anomalous",
+            "meaning": "adjective: not normal",
+            "sentence": "According to those who do not believe in climate change, the extreme weather over the last five years is simply anomalous—daily temperatures should return to their old averages, they believe."
+        },
+        "censure": {
+            "word": "censure",
+            "meaning": "verb: to express strong disapproval",
+            "sentence": "After being caught in bed with a mistress, the mayor was quickly censured by the city council."
+        },
+        "profligate": {
+            "word": "profligate",
+            "meaning": "adjective: spending resources recklessly or wastefully",
+            "sentence": "The composer Wagner, while living on a limited salary, was so profligate as to line all the walls of his apartment with pure silk.   "
+        },
+        "chastise": {
+            "word": "chastise",
+            "meaning": "verb: to reprimand harshly",
+            "sentence": "Though chastised for eating the snacks for the party, Lawrence shrugged off his mother’s harsh words, and continued to plow through jars of cookies and boxes of donuts."
+        },
+        "veracious": {
+            "word": "veracious",
+            "meaning": "adjective: truthful",
+            "sentence": "While we elect our leaders in the hope that every word they speak  will be veracious, history has shown that such a hope is naive. "
+        },
+        "aberration": {
+            "word": "aberration",
+            "meaning": "noun: a deviation from what is normal or expected",
+            "sentence": "Aberrations in climate have become the norm: rarely a week goes by without some meteorological phenomenon making headlines."
+        }
+    },
+    "Common Words II": {},
+    "Common Words III": {},
+    "Common Words IV": {},
+    "Common Words V": {
+        "lionize": {
+            "word": "lionize",
+            "meaning": "verb: assign great social importance to",
+            "sentence": "Students in the U.S. learn to lionize Jefferson, Franklin, and Washington because they are the founding fathers of the nation."
+        },
+        "poignant": {
+            "word": "poignant",
+            "meaning": "adjective: emotionally touching",
+            "sentence": "After the Montagues and Capulets discover the dead bodies of Romeo and Juliet,  in the play's most poignant moment, the two griefstricken families agree to end their feud once and for all."
+        },
+        "inveterate": {
+            "word": "inveterate",
+            "meaning": "adjective: habitual",
+            "sentence": "He is an inveterate smoker and has told his family and friends that there is no way he will ever quit."
+        },
+        "vacillate": {
+            "word": "vacillate",
+            "meaning": "verb: be undecided about something; waver between conflicting positions or courses of action",
+            "sentence": "Some students vacillate between schools when deciding which to attend, while others focus only on one school."
+        },
+        "garrulous": {
+            "word": "garrulous",
+            "meaning": "adjective: full of trivial conversation",
+            "sentence": "Lynne was garrulous: once, she had a fifteen minute conversation with a stranger before she realized the woman didn't speak English."
+        },
+        "trite": {
+            "word": "trite",
+            "meaning": "adjective: repeated too often; overfamiliar through overuse",
+            "sentence": "Many style guides recommend not using idioms in writing because these trite expressions are uninteresting and show a lack of imagination on the part of the writer."
+        },
+        "prodigious": {
+            "word": "prodigious",
+            "meaning": "adjective: so great in size or force or extent as to elicit awe",
+            "sentence": "After the relatively small homerun totals in the \"dead ball\" era, Babe Ruth's homerun totals were truly prodigious: every year, he set a new all-time record."
+        },
+        "sporadic": {
+            "word": "sporadic",
+            "meaning": "adjective: recurring in scattered and irregular or unpredictable instances",
+            "sentence": "The signals were at first sporadic, but now we detect a clear, consistent pattern of electromagnetic radiation emanating from deep space."
+        },
+        "austere": {
+            "word": "austere",
+            "meaning": "adjective: practicing self-denial",
+            "sentence": "His lifestyle of revelry and luxurious excess could hardly be called austere."
+        },
+        "audacity": {
+            "word": "audacity",
+            "meaning": "noun: aggressive boldness in social situations",
+            "sentence": "Mike was upset at the man who not only cut in front of him at the ticket counter but also had the audacity to cut in front of him at the bathroom line."
+        },
+        "pedestrian": {
+            "word": "pedestrian",
+            "meaning": "adjective: lacking imagination",
+            "sentence": "While Nan was always engaged in philosophical speculation, her brother was occupied with far more pedestrian concerns: how to earn a salary and run a household."
+        },
+        "intrepid": {
+            "word": "intrepid",
+            "meaning": "adjective: fearless",
+            "sentence": "Captain Ahab was an intrepid captain whose reckless and fearless style ultimately lead to his downfall."
+        },
+        "pernicious": {
+            "word": "pernicious",
+            "meaning": "adjective: exceedingly harmful; working or spreading in a hidden and injurious way",
+            "sentence": "The most successful viruses are pernicious: an infected person may feel perfectly healthy for several months while incubating and spreading the virus."
+        },
+        "antithetical": {
+            "word": "antithetical",
+            "meaning": "adjective: sharply contrasted in character or purpose",
+            "sentence": "His deep emotional involvement with these ideas is, in fact, antithetical to the detachment Buddhism preaches."
+        },
+        "subversive": {
+            "word": "subversive",
+            "meaning": "adjective: in opposition to an established system or institution. ",
+            "sentence": "The ruling political party has begun a campaign to shut down subversive websites that it deems as a threat to \"national safety.\""
+        },
+        "reverent": {
+            "word": "reverent",
+            "meaning": "adjective: feeling or showing profound respect or veneration",
+            "sentence": "The professor could speak objectively about the other composers, but he always lectured about Brahms with a particularly reverent air, unable to offer a single criticism of his compositions."
+        },
+        "brazen": {
+            "word": "brazen",
+            "meaning": "adjective: unrestrained by convention or propriety",
+            "sentence": "Their large \"donations\" to the local police department gave the drug cartel the brazen confidence to do their business out in the open."
+        },
+        "dilettante": {
+            "word": "dilettante",
+            "meaning": "noun: an amateur who engages in an activity without serious intentions and who pretends to have knowledge",
+            "sentence": "Fred has no formal medical training; while he likes to claim authority on medical issues, he is little more than a dilettante."
+        },
+        "munificent": {
+            "word": "munificent",
+            "meaning": "adjective: very generous",
+            "sentence": "Uncle Charley was known for his munificence, giving all seven of his nephews lavish Christmas presents each year."
+        },
+        "ostracize": {
+            "word": "ostracize",
+            "meaning": "verb: exclude from a community or group",
+            "sentence": "Later in his life, Leo Tolstoy was ostracized from the Russian Orthodox Church for his writings that contradicted church doctrine."
+        },
+        "scrupulous": {
+            "word": "scrupulous",
+            "meaning": "adjective: characterized by extreme care and great effort",
+            "sentence": "Because of his scrupulous nature, Mary put him in charge of numbering and cataloging the entire collection of rare stamps."
+        },
+        "inscrutable": {
+            "word": "inscrutable",
+            "meaning": "adjective: not easily understood; unfathomable",
+            "sentence": "His speech was so dense and confusing that many in the audience found it inscrutable."
+        },
+        "circumscribe": {
+            "word": "circumscribe",
+            "meaning": "verb: restrict or confine",
+            "sentence": "Their tour of South America was circumscribed so that they saw only popular destinations and avoided the dangerous parts of cities."
+        },
+        "propitious": {
+            "word": "propitious",
+            "meaning": "adjective: presenting favorable circumstances; likely to result in or show signs of success",
+            "sentence": "The child's heartbeat is still weak, but I am seeing many propitious signs and I think that she may be healing."
+        },
+        "foment": {
+            "word": "foment",
+            "meaning": "verb: try to stir up public opinion",
+            "sentence": "After having his pay cut, Phil spread vicious rumors about his boss, hoping to foment a general feeling of discontent."
+        },
+        "accolade": {
+            "word": "accolade",
+            "meaning": "noun: an award or praise granted as a special honor",
+            "sentence": "Jean Paul-Sartre was not a fan of accolades, and as such, he refused to accept the Nobel Prize for Literature in 1964."
+        },
+        "constituent": {
+            "word": "constituent",
+            "meaning": "noun: a citizen who is represented in a government by officials for whom he or she votes",
+            "sentence": "The mayor's constituents are no longer happy with her performance and plan to vote for another candidate in the upcoming election."
+        },
+        "prolific": {
+            "word": "prolific",
+            "meaning": "adjective: intellectually productive",
+            "sentence": "Schubert was the most prolific composer, producing hundreds of hours of music before he died at the age of 31."
+        },
+        "sanction": {
+            "word": "sanction",
+            "meaning": "verb: give authority or permission to",
+            "sentence": "The authorities have sanctioned the use of the wilderness reserve for public use; many expect to see hikers and campers enjoying the park in the coming months."
+        },
+        "arcane": {
+            "word": "arcane",
+            "meaning": "adjective: requiring secret or mysterious knowledge",
+            "sentence": "Most college fraternities are known for arcane rituals that those hoping to join the fraternity must learn."
+        },
+        "myriad": {
+            "word": "myriad",
+            "meaning": "noun: a large indefinite number",
+            "sentence": "There are a myriad of internet sites hawking pills that claim to boost energy for hours on end."
+        },
+        "haphazard": {
+            "word": "haphazard",
+            "meaning": "adjective: marked by great carelessness; dependent upon or characterized by chance",
+            "sentence": "Many golf courses are designed with great care, but the greens on the county golf course seem entirely haphazard."
+        },
+        "irrevocable": {
+            "word": "irrevocable",
+            "meaning": "adjective: incapable of being retracted or revoked",
+            "sentence": "Once you enter your plea to the court, it is irrevocable so think carefully about what you will say."
+        },
+        "rescind": {
+            "word": "rescind",
+            "meaning": "verb: cancel officially",
+            "sentence": "The man's driver's license was rescinded after his tenth car accident, which meant he would never be allowed to legally drive again."
+        },
+        "repudiate": {
+            "word": "repudiate",
+            "meaning": "verb: reject as untrue or unfounded",
+            "sentence": "Many in the public believed the rumors of a UFO crash outside town, so the chief of police did everything he could to repudiate the rumors."
+        },
+        "gauche": {
+            "word": "gauche",
+            "meaning": "adjective: lacking social polish",
+            "sentence": "Sylvester says the most gauche things, such as telling a girl he liked that she was much prettier when she wore makeup."
+        },
+        "sycophant": {
+            "word": "sycophant",
+            "meaning": "noun: a person who tries to please someone in order to gain a personal advantage",
+            "sentence": "The CEO was unaware of the damaging consequences of his choices, largely because he surrounded himself with sycophants who would never dare criticize him."
+        },
+        "tempered": {
+            "word": "tempered",
+            "meaning": "adjective: moderated in effect",
+            "sentence": "The wide-eyed optimism of her youth was now tempered after she had worked many years in the criminal justice system."
+        },
+        "resurgent": {
+            "word": "resurgent",
+            "meaning": "adjective: rising again as to new life and vigor",
+            "sentence": "The team sank to fourth place in June, but is now resurgent and about to win the division."
+        },
+        "winsome": {
+            "word": "winsome",
+            "meaning": "adjective: charming in a childlike or naive way",
+            "sentence": "She was winsome by nature, and many people were drawn to this free and playful spirit."
+        },
+        "tractable": {
+            "word": "tractable",
+            "meaning": "adjective: readily reacting to suggestions and influences; easily managed (controlled or taught or molded)",
+            "sentence": "Compared to middle school students, who have an untamed wildness about them, high school students are somewhat more tractable."
+        },
+        "arbitrary": {
+            "word": "arbitrary",
+            "meaning": "adjective: based on a random, groundless decision",
+            "sentence": "One of the arbitrary decrees in place during the emperor's rule is that all citizens pay him weekly homage at his palace."
+        },
+        "taciturn": {
+            "word": "taciturn",
+            "meaning": "adjective: habitually reserved and uncommunicative",
+            "sentence": "While the CEO enthusiastically shares his plans and agenda with all who will listen, the CFO is far more taciturn, rarely revealing his perspective."
+        }
+    },
+    "Common Words VI": {
+        "nonplussed": {
+            "word": "nonplussed",
+            "meaning": "adjective: unsure how to act or respond",
+            "sentence": "Shirley was totally nonplussed when the angry motorist cut her off and then stuck his finger out the window."
+        },
+        "capricious": {
+            "word": "capricious",
+            "meaning": "adjective: determined by chance or impulse or whim rather than by necessity or reason",
+            "sentence": "Nearly every month our capricious CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed."
+        },
+        "maladroit": {
+            "word": "maladroit",
+            "meaning": "adjective: clumsy",
+            "sentence": "As a child she was quite maladroit, but as an adult, she has become an adept dancer."
+        },
+        "mendacity": {
+            "word": "mendacity",
+            "meaning": "noun: the tendency to be untruthful",
+            "sentence": "I can forgive her for her mendacity but only because she is a child and is seeing what she can get away with."
+        },
+        "transient": {
+            "word": "transient",
+            "meaning": "adjective: lasting a very short time",
+            "sentence": "The unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly."
+        },
+        "edifying": {
+            "word": "edifying",
+            "meaning": "adjective: enlightening or uplifting so as to encourage intellectual or moral improvement",
+            "sentence": "I recently read an article in the Times about whether good literature is edifying or not; specifically, does reading more make a person more moral."
+        },
+        "craven": {
+            "word": "craven",
+            "meaning": "adjective: pathetically cowardly",
+            "sentence": "Though the man could have at least alerted the police, he crouched cravenly in the corner as the old woman was mugged."
+        },
+        "erudite": {
+            "word": "erudite",
+            "meaning": "adjective: having or showing profound knowledge",
+            "sentence": "Before the Internet, the library was typically where you would find erudite readers."
+        },
+        "specious": {
+            "word": "specious",
+            "meaning": "adjective: based on pretense; deceptively pleasing",
+            "sentence": "Almost every image on TV is specious and not to be trusted."
+        },
+        "arduous": {
+            "word": "arduous",
+            "meaning": "adjective: demanding considerable mental effort and skill; testing powers of endurance",
+            "sentence": "In order to deal with the arduous cross-country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time."
+        },
+        "imprudent": {
+            "word": "imprudent",
+            "meaning": "adjective: not wise",
+            "sentence": "Hitler, like Napoleon, made the imprudent move of invading Russia in winter, suffering even more casualties than Napoleon had."
+        },
+        "jovial": {
+            "word": "jovial",
+            "meaning": "adjective: full of or showing high-spirited merriment",
+            "sentence": "The presidential candidate and her supporters were jovial once it was clear that she had won."
+        },
+        "ignominious": {
+            "word": "ignominious",
+            "meaning": "adjective: (used of conduct or character) deserving or bringing disgrace or shame",
+            "sentence": "Since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party."
+        },
+        "maverick": {
+            "word": "maverick",
+            "meaning": "noun: someone who exhibits great independence in thought and action",
+            "sentence": "Officer Kelly was a maverick, rarely following police protocols or adopting the conventions for speech common among his fellow officers."
+        },
+        "opulence": {
+            "word": "opulence",
+            "meaning": "noun: wealth as evidenced by sumptuous living",
+            "sentence": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive caviar."
+        },
+        "timorous": {
+            "word": "timorous",
+            "meaning": "adjective: timid by nature or revealing fear and nervousness",
+            "sentence": "Since this was her first time debating on stage and before an audience, Di's voice was timorous and quiet for the first 10 minutes."
+        },
+        "anomaly": {
+            "word": "anomaly",
+            "meaning": "noun: something that is not normal, standard, or expected",
+            "sentence": "After finding an anomaly in the data, she knew that she would have to conduct her experiment again."
+        },
+        "polemic": {
+            "word": "polemic",
+            "meaning": "noun: a strong verbal or written attack on someone or something.",
+            "sentence": "The professor launched into a polemic, claiming that Freudian theory was a pack of lies that absolutely destroyed European literary theory."
+        },
+        "reproach": {
+            "word": "reproach",
+            "meaning": "verb: to express criticism towards",
+            "sentence": "At first, Sarah was going to yell at the boy, but she didn't want to reproach him for telling the truth about the situation."
+        },
+        "sullen": {
+            "word": "sullen",
+            "meaning": "adjective: showing a brooding ill humor",
+            "sentence": "Herbert took board games too seriously, often appearing sullen after losing."
+        },
+        "furtive": {
+            "word": "furtive",
+            "meaning": "adjective: marked by quiet and caution and secrecy; taking pains to avoid being observed",
+            "sentence": "While at work, George and his boss Regina felt the need to be as furtive as possible about their romantic relationship."
+        },
+        "rebuke": {
+            "word": "rebuke",
+            "meaning": "verb: criticize severely or angrily; censure",
+            "sentence": "The police chief rebuked the two officers whose irresponsible decisions almost led to the deaths of seven innocent by-standers."
+        },
+        "dilatory": {
+            "word": "dilatory",
+            "meaning": "adjective: wasting time",
+            "sentence": "Lawyers use dilatory tactics so that it takes years before the case is actually decided."
+        },
+        "stringent": {
+            "word": "stringent",
+            "meaning": "adjective: demanding strict attention to rules and procedures",
+            "sentence": "Most of the students disliked the teacher because of his stringent homework policy, but many students would later thank him for demanding so much from them."
+        },
+        "askance": {
+            "word": "askance",
+            "meaning": "adverb: with a look of suspicion or disapproval",
+            "sentence": "The old couple looked askance on the teenagers seated next to them, whispering to each other, \"They've got rings through their noses and purple hair!\""
+        },
+        "elicit": {
+            "word": "elicit",
+            "meaning": "verb: call forth (emotions, feelings, and responses)",
+            "sentence": "Just smiling--even if you are depressed--can elicit feelings of pleasure and happiness."
+        },
+        "efficacious": {
+            "word": "efficacious",
+            "meaning": "adjective: producing the intended result",
+            "sentence": "Since Maggie's cough syrup, which had expired five years back, was no longer efficacious, she coughed through the night."
+        },
+        "bolster": {
+            "word": "bolster",
+            "meaning": "verb: support and strengthen",
+            "sentence": "The case for the suspect's innocence was bolstered considerably by the fact that neither fingerprints nor DNA were found at the scene."
+        },
+        "mundane": {
+            "word": "mundane",
+            "meaning": "adjective: repetitive and boring; not spiritual",
+            "sentence": "Nancy found doing dishes a thorougly mundane task, although Peter found a kind of Zen pleasure in the chore."
+        },
+        "appease": {
+            "word": "appease",
+            "meaning": "verb: pacify by acceding to the demands of",
+            "sentence": "Neville Chamberlain, the British prime minister during WWII, tried to appease Hitler and in doing so sent a clear message: you can walk all over us."
+        },
+        "harried": {
+            "word": "harried",
+            "meaning": "adjective: troubled persistently especially with petty annoyances",
+            "sentence": "With a team of new hires to train, Martha was constantly harried with little questions and could not focus on her projects."
+        },
+        "disseminate": {
+            "word": "disseminate",
+            "meaning": "verb: cause to become widely known",
+            "sentence": "Before the effects of anesthesia were disseminated, patients had to experience the full pain of a surgery."
+        },
+        "Magoosh Score Estimator": {
+            "word": "Magoosh Score Estimator",
+            "meaning": "noun: After taking a practice exam, determine your score on the GRE 340-point scale.  Learn more at http://gre.magoosh.com",
+            "sentence": "Mike scored a 335 on a practice exam using the Magoosh score estimator."
+        },
+        "duress": {
+            "word": "duress",
+            "meaning": "noun: compulsory force or threat",
+            "sentence": "The witness said he signed the contract under duress and argued that the court should cancel the agreement."
+        },
+        "flux": {
+            "word": "flux",
+            "meaning": "noun: a state of uncertainty about what should be done (usually following some important event)",
+            "sentence": "Ever since Elvira resigned as the head of marketing, everything about our sales strategy has been in a state of flux."
+        },
+        "contrition": {
+            "word": "contrition",
+            "meaning": "noun: the feeling of remorse or guilt that comes from doing something bad",
+            "sentence": "Those who show contrition during their prison terms--especially when under review by a parole board--often get shortened sentences."
+        },
+        "misconstrue": {
+            "word": "misconstrue",
+            "meaning": "verb: interpret in the wrong way",
+            "sentence": "The politician never trusted journalists because he thought that they would misconstrue his words and misrepresent his positions."
+        },
+        "posit": {
+            "word": "posit",
+            "meaning": "verb: assume as fact",
+            "sentence": "Initially, Einstein posited a repulsive force to balance Gravity, but then rejected that idea as a blunder."
+        },
+        "economical": {
+            "word": "economical",
+            "meaning": "adjective: avoiding waste, efficient",
+            "sentence": "Journalists favor an economical style of writing, in which no unnecessary words are used and every sentence is as short as possible."
+        },
+        "banality": {
+            "word": "banality",
+            "meaning": "noun: a trite or obvious remark",
+            "sentence": "Herbert regarded the minister's remark as a mere banality until Sharon pointed out profound implications to the seemingly obvious words."
+        },
+        "indecorous": {
+            "word": "indecorous",
+            "meaning": "adjective: not in keeping with accepted standards of what is right or proper in polite society",
+            "sentence": "Eating with elbows on the table is considered indecorous in refined circles."
+        },
+        "nuance": {
+            "word": "nuance",
+            "meaning": "noun: a subtle difference in meaning or opinion or attitude",
+            "sentence": "Because of the nuances involved in this case, I hired an outside consultant to advise us and help."
+        },
+        "antipathy": {
+            "word": "antipathy",
+            "meaning": "noun: an intense feeling of dislike or aversion",
+            "sentence": "Maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists."
+        },
+        "placate": {
+            "word": "placate",
+            "meaning": "verb: cause to be more favorably inclined; gain the good will of",
+            "sentence": "I was able to placate the angry mob of students by promising to bring cookies on Monday."
+        },
+        "deleterious": {
+            "word": "deleterious",
+            "meaning": "adjective: harmful to living things",
+            "sentence": "The BP oil spill in the Gulf of Mexico was deleterious to the fishing industry in the southern states."
+        },
+        "fastidious": {
+            "word": "fastidious",
+            "meaning": "adjective: overly concerned with details; fussy",
+            "sentence": "Whitney is fastidious about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced."
+        },
+        "esoteric": {
+            "word": "esoteric",
+            "meaning": "adjective: confined to and understandable by only an enlightened inner circle",
+            "sentence": "Map collecting is an esoteric hobby to most, but to geography geeks it is a highly enjoyable pastime."
+        },
+        "dispassionate": {
+            "word": "dispassionate",
+            "meaning": "adjective: unaffected by strong emotion or prejudice",
+            "sentence": "A good scientist should be dispassionate, focusing purely on what the evidence says, without personal attachment."
+        },
+        "impartial": {
+            "word": "impartial",
+            "meaning": "adjective: free from undue bias or preconceived opinions",
+            "sentence": "The judge was not impartial since he had been bribed by the witness's family."
+        },
+        "pejorative": {
+            "word": "pejorative",
+            "meaning": "adjective: expressing disapproval (usu. refers to a term)",
+            "sentence": "Most psychologists object to the pejorative term \"shrink\", believing that they expand the human mind, not limit it."
+        },
+        "truncate": {
+            "word": "truncate",
+            "meaning": "verb: reduce the length of something",
+            "sentence": "The soccer game was truncated when the monsoon rain began to fall."
+        }
+    },
+    "Basic Words I": {},
+    "Basic Words II": {},
+    "Basic Words III": {},
+    "Basic Words IV": {},
+    "Basic Words V": {},
+    "Basic Words VI": {}
+}
