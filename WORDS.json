@@ -221,7 +221,238 @@
             "sentence": "Aberrations in climate have become the norm: rarely a week goes by without some meteorological phenomenon making headlines."
         }
     },
-    "Common Words II": {},
+    "Common Words II": {
+        "apathetic": {
+            "word": "apathetic",
+            "meaning": "adjective: marked by a lack of interest",
+            "sentence": "Mr. Thompson was so talented at teaching math that even normally apathetic students took interest."
+        },
+        "audacious": {
+            "word": "audacious",
+            "meaning": "adjective: willing to be bold in social situations or to take risks",
+            "sentence": "As all of the other campers cowered in their tents, Bill, armed only with a flashlight, audaciously tracked down the bear that had raided their food."
+        },
+        "impudent": {
+            "word": "impudent",
+            "meaning": "adjective: improperly forward or bold",
+            "sentence": "In an impudent move, the defendant spoke out of order to say terribly insulting things to the judge."
+        },
+        "perfidy": {
+            "word": "perfidy",
+            "meaning": "noun: an act of deliberate betrayal; a breach of a trust",
+            "sentence": "Sure, he was the best salesman in the company; but Michael had abused the trust of the firm, sharing product secrets with a competitor, and for such perfidy he was terminated."
+        },
+        "recondite": {
+            "word": "recondite",
+            "meaning": "adjective: difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+            "sentence": "I found Ulysses recondite and never finished the book, waiting instead to read it with someone else so we could penetrate its meaning together."
+        },
+        "predilection": {
+            "word": "predilection",
+            "meaning": "noun: a strong liking",
+            "sentence": "Monte had a predilection for the fine things in life: Cuban cigars, 200 dollar bottles of wine, and trips to the French Riviera."
+        },
+        "platitude": {
+            "word": "platitude",
+            "meaning": "noun: a trite or obvious remark",
+            "sentence": "The professor argued that many statements regarded as wise in previous times, such as the Golden Rule, are now regarded as mere platitudes."
+        },
+        "entrenched": {
+            "word": "entrenched",
+            "meaning": "adjective: fixed firmly or securely",
+            "sentence": "By the time we reach 60-years old, most of our habits are so entrenched that it is difficult for us to change."
+        },
+        "superfluous": {
+            "word": "superfluous",
+            "meaning": "adjective: serving no useful purpose",
+            "sentence": "How can we hope to stay open if we don't eliminate all superfluous spending, like catered meetings and free acupuncture Tuesday?"
+        },
+        "prescience": {
+            "word": "prescience",
+            "meaning": "noun: the power to foresee the future",
+            "sentence": "Baxter's warnings about investing in technology stocks seemed like an act of prescience after the whole market declined significantly."
+        },
+        "frivolous": {
+            "word": "frivolous",
+            "meaning": "adjective: not serious in content or attitude or behavior",
+            "sentence": "Compared to Juliet's passionate concern for human rights, Jake's non-stop concern about football seems somewhat frivolous."
+        },
+        "diffident": {
+            "word": "diffident",
+            "meaning": "adjective: showing modest reserve; lacking self-confidence",
+            "sentence": "As a young girl she was diffident and reserved, but now as an adult, she is confident and assertive."
+        },
+        "concede": {
+            "word": "concede",
+            "meaning": "verb: acknowledge defeat",
+            "sentence": "I concede. You win!"
+        },
+        "gossamer": {
+            "word": "gossamer",
+            "meaning": "adjective: characterized by unusual lightness and delicacy",
+            "sentence": "The gossamer wings of a butterfly, which allow it to fly, are also a curse, so delicate that they are often damaged."
+        },
+        "gainsay": {
+            "word": "gainsay",
+            "meaning": "verb: deny or contradict; speak against or oppose",
+            "sentence": "I can't gainsay a single piece of evidence James has presented, but I still don't trust his conclusion."
+        },
+        "decorous": {
+            "word": "decorous",
+            "meaning": "adjective: characterized by good taste in manners and conduct",
+            "sentence": "Sally's parties are decorous affairs, and instead of the usual beer and music, there is tea and intellectual conversation."
+        },
+        "inexorable": {
+            "word": "inexorable",
+            "meaning": "adjective: impossible to stop or prevent",
+            "sentence": "The rise of the computer was an inexorable shift in technology and culture."
+        },
+        "bucolic": {
+            "word": "bucolic",
+            "meaning": "adjective: relating to the pleasant aspects of the country ",
+            "sentence": "The noble families of England once owned vast expanses of beautiful, bucolic land."
+        },
+        "incisive": {
+            "word": "incisive",
+            "meaning": "adjective: having or demonstrating ability to recognize or draw fine distinctions",
+            "sentence": "The lawyer had an incisive mind, able in a flash to dissect a hopelessly tangled issue and isolate the essential laws at play."
+        },
+        "exacerbate": {
+            "word": "exacerbate",
+            "meaning": "verb: make worse",
+            "sentence": "Her sleeplessness exacerbated her cold--when she woke up the next day, her sinuses were completely blocked."
+        },
+        "gall": {
+            "word": "gall",
+            "meaning": "noun: the trait of being rude and impertinent",
+            "sentence": "The speeding car had the gall to switch five lanes at once, run through a red light, and then cut off a police car before finally coming to a stop in front of a sea of flashing red lights."
+        },
+        "didactic": {
+            "word": "didactic",
+            "meaning": "adjective: instructive (especially excessively)",
+            "sentence": "Tolstoy's The Death of Ivan Ilyich is a didactic novel, instructing the reader on how to live a good life."
+        },
+        "culpability": {
+            "word": "culpability",
+            "meaning": "noun: a state of guilt",
+            "sentence": "Since John had left his banana peel at the top of the stairwell, he accepted culpability for Martha's broken leg."
+        },
+        "aesthete": {
+            "word": "aesthete",
+            "meaning": "noun: one who professes great sensitivity to the beauty of art and nature",
+            "sentence": "A true aesthete, Marty would spend hours at the Guggenheim Museum, staring at the same Picasso."
+        },
+        "torpor": {
+            "word": "torpor",
+            "meaning": "noun: inactivity resulting from lethargy and lack of vigor or energy",
+            "sentence": "After work, I was expecting my colleagues to be enthusiastic about the outing, but I found them in a state of complete torpor."
+        },
+        "mitigate": {
+            "word": "mitigate",
+            "meaning": "verb: make less severe or harsh",
+            "sentence": "I can only spend so much time mitigating your disagreements with your wife, and at certain point, you need to do it on your own."
+        },
+        "banal": {
+            "word": "banal",
+            "meaning": "adjective: repeated too often; overfamiliar through overuse",
+            "sentence": "The professor used such banal expression that many students in the class either fell asleep from boredom or stayed awake to complete his sentences and humor friends."
+        },
+        "volubility": {
+            "word": "volubility",
+            "meaning": "noun: the quality of talking or writing easily and continuously",
+            "sentence": "The professor's volubility knows no bounds; he could talk through a hurricane and elaborate a point from one St. Patrick's Day to the next."
+        },
+        "aesthetic": {
+            "word": "aesthetic",
+            "meaning": "adjective: concerned with the appreciation of beauty",
+            "sentence": "The director, not known for his aesthetic sensibilities, decided not to use costumes at all, and put on the play in everyday clothing."
+        },
+        "fortuitous": {
+            "word": "fortuitous",
+            "meaning": "adjective: occurring by happy chance; having no cause or apparent cause",
+            "sentence": "Missing my train turned out to be quite fortuitous since I ran into a childhood friend on the next train and we were able to reconnect after so many years."
+        },
+        "reticent": {
+            "word": "reticent",
+            "meaning": "adjective: disinclined to talk, not revealing one's thoughts ",
+            "sentence": "When asked about her father, Helen lost her outward enthusiasm and became rather reticent."
+        },
+        "vociferous": {
+            "word": "vociferous",
+            "meaning": "adjective: conspicuously and offensively loud; given to vehement outcry",
+            "sentence": "In giving Marcia a particular vociferous response, Paul caused people at every other table in the restaurant to turn around and look at them angrily."
+        },
+        "preclude": {
+            "word": "preclude",
+            "meaning": "verb: keep from happening or arising; make impossible",
+            "sentence": "The manager specified that all other gates be locked, to preclude the possibility of persons without tickets entering the arena undetected."
+        },
+        "engender": {
+            "word": "engender",
+            "meaning": "verb: give rise to",
+            "sentence": "The restrictions of the Treaty of Versailles were so severe that they engendered deep hatred and resentment in the German people."
+        },
+        "germane": {
+            "word": "germane",
+            "meaning": "adjective: relevant and appropriate",
+            "sentence": "The professor wanted to tell the jury in detail about his new book, but the lawyer said it wasn't germane to the charges in the cases."
+        },
+        "cryptic": {
+            "word": "cryptic",
+            "meaning": "adjective: mysterious or vague, usually intentionally",
+            "sentence": "Since Sarah did not want her husband to guess the Christmas present she had bought him, she only answered cryptically when he would ask her questions about it."
+        },
+        "dogmatic": {
+            "word": "dogmatic",
+            "meaning": "adjective: highly opinionated, not accepting that one's own beliefs may not be correct",
+            "sentence": "Bryan is dogmatic in his belief that the earth is flat, claiming that all pictures of a spherical earth are computer generated."
+        },
+        "deferential": {
+            "word": "deferential",
+            "meaning": "adjective: showing respect",
+            "sentence": "If you ever have the chance to meet the president, stand up straight and be deferential."
+        },
+        "culminate": {
+            "word": "culminate",
+            "meaning": "verb: reach the highest or most decisive point",
+            "sentence": "Beethoven's musical genius culminated in the 9th Symphony, which many consider his greatest work."
+        },
+        "querulous": {
+            "word": "querulous",
+            "meaning": "adjective: habitually complaining",
+            "sentence": "The querulous old woman was beginning to wear down even the happier members of the staff with her ceaseless complaining."
+        },
+        "obscure": {
+            "word": "obscure",
+            "meaning": "verb: make unclear",
+            "sentence": "On the Smith's drive through the Grand Canyon, Mr. Smith's big head obscured much of Mrs. Robinson's view, so that she only saw momentary patches of red rock."
+        },
+        "glut": {
+            "word": "glut",
+            "meaning": "noun: an excessive supply",
+            "sentence": "The Internet offers such a glut of news related stories that many find it difficult to know which story to read first."
+        },
+        "lambast": {
+            "word": "lambast",
+            "meaning": "verb: criticize severely or angrily",
+            "sentence": "Showing no patience, the manager utterly lambasted the sales team that lost the big account."
+        },
+        "eschew": {
+            "word": "eschew",
+            "meaning": "verb: avoid and stay away from deliberately; stay clear of",
+            "sentence": "Politicians are the masters of eschewing morals; academics are the masters of eschewing clarity."
+        },
+        "mawkish": {
+            "word": "mawkish",
+            "meaning": "adjective: overly sentimental to the point that it is disgusting",
+            "sentence": "The film was incredibly mawkish, introducing highly likeable characters only to have them succumb to a devastating illness by the end of the movie."
+        },
+        "rustic": {
+            "word": "rustic",
+            "meaning": "adjective: characteristic of rural life; awkwardly simple and provincial",
+            "sentence": "The vacation cabin had no electricity and no indoor plumbing, but despite these inconveniences, Nigel adored its rustic charm."
+        }
+    },
     "Common Words III": {},
     "Common Words IV": {},
     "Common Words V": {
