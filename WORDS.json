@@ -262,11 +262,6 @@
             "meaning": "adjective: fixed firmly or securely",
             "sentence": "By the time we reach 60-years old, most of our habits are so entrenched that it is difficult for us to change."
         },
-        "superfluous": {
-            "word": "superfluous",
-            "meaning": "adjective: serving no useful purpose",
-            "sentence": "How can we hope to stay open if we don't eliminate all superfluous spending, like catered meetings and free acupuncture Tuesday?"
-        },
         "prescience": {
             "word": "prescience",
             "meaning": "noun: the power to foresee the future",
@@ -451,6 +446,24 @@
             "word": "rustic",
             "meaning": "adjective: characteristic of rural life; awkwardly simple and provincial",
             "sentence": "The vacation cabin had no electricity and no indoor plumbing, but despite these inconveniences, Nigel adored its rustic charm."
+        },
+        "chortle": {
+            "word": "chortle",
+            "meaning": "verb: to chuckle, laugh merrily, often in a breathy, muffled way",
+            "sentence": "Walking into the cafe, I could hear happy, chortling people and smell the rich aroma of roasted coffee beans."
+        },
+        "superfluous": {
+            "word": "superfluous",
+            "meanings": [
+                {
+                    "meaning": "adjective: serving no useful purpose",
+                    "sentence": "How can we hope to stay open if we don't eliminate all superfluous spending, like catered meetings and free acupuncture Tuesday?"
+                },
+                {
+                    "meaning": "adjective: more than is needed, desired, or required",
+                    "sentence": "The third paragraph in your essay is superfluous and can be deleted."
+                }
+            ]
         }
     },
     "Common Words III": {},
