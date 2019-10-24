@@ -1768,7 +1768,277 @@
             "sentence": "Since the police sergeant had to train the pair of new hires, progress in his own case was impeded."
         }
     },
-    "Basic IV": {},
+    "Basic IV": {
+        "tumult": {
+            "word": "tumult",
+            "meaning": "noun: a state of chaos, noise and confusion",
+            "sentence": "Riots broke out just in front of our apartment building, and the tumult continued late into the night."
+        },
+        "cornucopia": {
+            "word": "cornucopia",
+            "meaning": "noun: an abundant supply of something good",
+            "sentence": "The International Food Expo was a cornucopia of culinary delights: gourmet foods from every continent were under one roof."
+        },
+        "elaborate": {
+            "word": "elaborate",
+            "meanings": [
+                {
+                    "meaning": "adjective: marked by complexity and richness of detail",
+                    "sentence": "Thomas, on returning from Morocco, replaced his dirty gray carpet with an elaborate one he'd brought back with him."
+                },
+                {
+                    "meaning": "verb: explain in more detail",
+                    "sentence": "Most high school physics teachers find themselves elaborating the same point over and over again, since many concepts confuse students."
+                }
+            ]
+        },
+        "urbane": {
+            "word": "urbane",
+            "meaning": "adjective: showing a high degree of refinement and the assurance that comes from wide social experience",
+            "sentence": "Because of his service as an intelligence officer and his refined tastes, W. Somerset Maugham became the inspiration for the urbane and sophisticate spy James Bond."
+        },
+        "augment": {
+            "word": "augment",
+            "meaning": "verb: enlarge or increase; improve",
+            "sentence": "Ideally, the restaurant's augmented menu will expand its clientele and increase its profits."
+        },
+        "martial": {
+            "word": "martial",
+            "meaning": "adjective: suggesting war or military life",
+            "sentence": "Americans tend to remember Abraham Lincoln as kindly and wise, not at all martial, despite the fact that he was involved in the fiercest war America has even fought."
+        },
+        "buck": {
+            "word": "buck",
+            "meaning": "verb: resist",
+            "sentence": "The profits at our firm bucked the general downturn that affected the real estate industry."
+        },
+        "euphoria": {
+            "word": "euphoria",
+            "meaning": "noun: a feeling of great (usually exaggerated) elation",
+            "sentence": "The euphoria of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy."
+        },
+        "conducive": {
+            "word": "conducive",
+            "meaning": "adjective: making a situation or outcome more likely to happen",
+            "sentence": "Studying in a quiet room is conducive to learning; studying in a noisy environment makes learning more difficult."
+        },
+        "debase": {
+            "word": "debase",
+            "meaning": "verb: reduce the quality or value of something",
+            "sentence": "The third-rate script so debased the film that not even the flawless acting could save it from being a flop."
+        },
+        "derisive": {
+            "word": "derisive",
+            "meaning": "adjective: abusing vocally; expressing contempt or ridicule",
+            "sentence": "I was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial."
+        },
+        "genteel": {
+            "word": "genteel",
+            "meaning": "adjective: marked by refinement in taste and manners",
+            "sentence": "A live string quartet would provide a more genteel air to the wedding than would a folk singer."
+        },
+        "glib": {
+            "word": "glib",
+            "meaning": "adjective: (of a person) speaking with ease but without sincerity",
+            "sentence": "I have found that the more glib the salesman, the worse the product."
+        },
+        "lucid": {
+            "word": "lucid",
+            "meaning": "adjective: (of language) transparently clear; easily understandable",
+            "sentence": "Though Walters writes about physics and time travel, his writing is always lucid, so readers with little scientific training can understand difficult concepts."
+        },
+        "spurn": {
+            "word": "spurn",
+            "meaning": "verb: reject with contempt",
+            "sentence": "She spurned all his flattery and proposals, and so he walked off embarrassed and sad."
+        },
+        "commendable": {
+            "word": "commendable",
+            "meaning": "adjective: worthy of high praise",
+            "sentence": "The efforts of the firefighters running into the burning building were commendable."
+        },
+        "unruly": {
+            "word": "unruly",
+            "meaning": "adjective: (of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority",
+            "sentence": "Walk in to any preschool and I am sure that you will find an unruly and chaotic scene—unless it's nap time."
+        },
+        "illicit": {
+            "word": "illicit",
+            "meaning": "adjective: contrary to or forbidden by law",
+            "sentence": "Though Al Capone was engaged in many illicit activities, he was finally arrested for income tax evasion, a relatively minor offense."
+        },
+        "credence": {
+            "word": "credence",
+            "meaning": "noun: belief in something",
+            "sentence": "He placed no credence in psychics, claiming that they offered no special powers beyond the ability to make people part with their money."
+        },
+        "empathetic": {
+            "word": "empathetic",
+            "meaning": "adjective: showing understanding and ready comprehension of other peoples' states and emotions",
+            "sentence": "Most discrimination and hatred is based on a lack of empathetic awareness of people that have the same aspirations and fears."
+        },
+        "sentimental": {
+            "word": "sentimental",
+            "meaning": "adjective: effusively or insincerely emotional, especially in art, music, and literature",
+            "sentence": "I don't like romanticism for the same reason I don't like melodramatic acting and soap operas—overly sentimental."
+        },
+        "grovel": {
+            "word": "grovel",
+            "meaning": "verb: show submission or fear",
+            "sentence": "Every time Susan comes to the office, Frank grovels as if she were about to fire him."
+        },
+        "vacuous": {
+            "word": "vacuous",
+            "meaning": "adjective: devoid of intelligence, matter, or significance",
+            "sentence": "To the journalist's pointed question, the senator gave a vacuous response, mixing a few of his overall campaign slogans with platitudes and completely avoiding the controversial subject of the question."
+        },
+        "uncompromising": {
+            "word": "uncompromising",
+            "meaning": "adjective: not making concessions",
+            "sentence": "The relationship between Bart and Hilda ultimately failed because they were both so uncompromising, never wanting to change their opinions."
+        },
+        "pertinent": {
+            "word": "pertinent",
+            "meaning": "adjective: having precise or logical relevance to the matter at hand",
+            "sentence": "While the salaries of the players might draw attention in the media, such monetary figures are not pertinent to the question of who plays the best on the field."
+        },
+        "altruism": {
+            "word": "altruism",
+            "meaning": "noun: the quality of unselfish concern for the welfare of others",
+            "sentence": "Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by altruism."
+        },
+        "smattering": {
+            "word": "smattering",
+            "meaning": "noun: a slight or superficial understanding of a subject; a small amount of something",
+            "sentence": "I know only a smattering of German, but Helen is able to read German newspapers and converse with natives."
+        },
+        "irresolute": {
+            "word": "irresolute",
+            "meaning": "adjective: uncertain how to act or proceed",
+            "sentence": "He stood irresolute at the split in the trail, not sure which route would lead back to the camp."
+        },
+        "impeccable": {
+            "word": "impeccable",
+            "meaning": "adjective: without fault or error",
+            "sentence": "He was impeccably dressed in the latest fashion without a single crease or stain."
+        },
+        "perpetuate": {
+            "word": "perpetuate",
+            "meaning": "verb: cause to continue",
+            "sentence": "If you do not let him do things for himself, you are merely perpetuating bad habits that will be even harder to break in the future."
+        },
+        "detrimental": {
+            "word": "detrimental",
+            "meaning": "adjective: (sometimes followed by \"to\") causing harm or injury",
+            "sentence": "Many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad."
+        },
+        "benign": {
+            "word": "benign",
+            "meanings": [
+                {
+                    "meaning": "adjective: kind",
+                    "sentence": "I remember my grandfather's face was wrinkled, benign, and calm."
+                },
+                {
+                    "meaning": "adjective: (medicine) not dangerous to health; not recurrent or progressive",
+                    "sentence": "The tumor located in your ear lobe seems to be benign and should not cause you any trouble."
+                }
+            ]
+        },
+        "egotist": {
+            "word": "egotist",
+            "meaning": "noun: a conceited and self-centered person",
+            "sentence": "An egotist, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol."
+        },
+        "whimsical": {
+            "word": "whimsical",
+            "meaning": "adjective: determined by impulse or whim rather than by necessity or reason",
+            "sentence": "Adults look to kids and envy their whimsical nature at times, wishing that they could act without reason and play without limitation."
+        },
+        "fickle": {
+            "word": "fickle",
+            "meaning": "adjective: liable to sudden unpredictable change, esp. in affections or attachments",
+            "sentence": "She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it."
+        },
+        "perennial": {
+            "word": "perennial",
+            "meaning": "adjective: lasting an indefinitely long time; eternal; everlasting",
+            "sentence": "Even at the old-timers games, Stan Musial would get the loudest cheer: he was a perennial favorite of the fans there."
+        },
+        "assail": {
+            "word": "assail",
+            "meaning": "verb: attack in speech or writing",
+            "sentence": "In the weekly paper, the editor assailed the governor for wasting hundreds of thousands of dollars in public projects that quickly failed."
+        },
+        "facetious": {
+            "word": "facetious",
+            "meaning": "adjective: cleverly amusing in tone",
+            "sentence": "Facetious behavior will not be tolerated during sex education class; it's time for all of you to treat these matters like mature adults."
+        },
+        "rankle": {
+            "word": "rankle",
+            "meaning": "verb: gnaw into; make resentful or angry",
+            "sentence": "His constant whistling would rankle her, sometimes causing her to leave in a huff."
+        },
+        "hamstrung": {
+            "word": "hamstrung",
+            "meaning": "verb: made ineffective or powerless",
+            "sentence": "The FBI has made so many restrictions on the local police that they are absolutely hamstrung, unable to accomplish anything."
+        },
+        "surly": {
+            "word": "surly",
+            "meaning": "adjective: inclined to anger or bad feelings with overtones of menace",
+            "sentence": "Every morning, Bhavin was a surly, unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around."
+        },
+        "tawdry": {
+            "word": "tawdry",
+            "meaning": "adjective: tastelessly showy; cheap and shoddy",
+            "sentence": "Carol expected to find New York City magical, the way so many movies had portrayed it, but she was surprised how often tawdry displays took the place of genuine elegance."
+        },
+        "pristine": {
+            "word": "pristine",
+            "meanings": [
+                {
+                    "meaning": "adjective: Unspoiled, untouched (usu. of nature)",
+                    "sentence": "The glacial lake was pristine and we filled our canteens to drink deeply."
+                },
+                {
+                    "meaning": "adjective: Immaculately clean and unused",
+                    "sentence": "Drill sergeants are known for demanding pristine cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards."
+                }
+            ]
+        },
+        "genial": {
+            "word": "genial",
+            "meaning": "adjective: agreeable, conducive to comfort",
+            "sentence": "Betty is a genial young woman: everyone she meets is put at ease by her elegance and grace."
+        },
+        "precedent": {
+            "word": "precedent",
+            "meaning": "noun: an example that is used to justify similar occurrences at a later time",
+            "sentence": "The principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a precedent for what could be worn at school dances."
+        },
+        "contemptuous": {
+            "word": "contemptuous",
+            "meaning": "adjective: scornful, looking down at others with a sneering attitude",
+            "sentence": "Always on the forefront of fashion, Vanessa looked contemptuously at anyone wearing dated clothing."
+        },
+        "inadvertent": {
+            "word": "inadvertent",
+            "meaning": "adjective: happening by chance or unexpectedly or unintentionally",
+            "sentence": "Although Prohibition was rooted in noble ideals, the inadvertent and costly consequences of making alcohol illegal in the U.S. led to its repeal."
+        },
+        "banish": {
+            "word": "banish",
+            "meaning": "verb: expel from a community, residence, or location; drive away",
+            "sentence": "The most difficult part of the fast was banishing thoughts of food."
+        },
+        "assuage": {
+            "word": "assuage",
+            "meaning": "verb: make something intense less severe",
+            "sentence": "Her fear that the new college would be filled with unknown faces was assuaged when she recognized her childhood friend standing in line."
+        }
+    },
     "Basic V": {},
     "Basic VI": {}
 }
