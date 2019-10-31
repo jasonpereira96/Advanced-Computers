@@ -2627,5 +2627,293 @@
             "sentence": "I did not expect the insurance agent to give us any straight answers, but I was pleasantly surprised by how forthright he was."
         }
     },
-    "Basic VII": {}
+    "Basic VII": {
+        "deliberate": {
+            "word": "deliberate",
+            "meaning": "verb: think about carefully; weigh the pros and cons of an issue",
+            "sentence": "Emergency situations such as this call for immediate action and leave no room to deliberate over options."
+        },
+        "antiquated": {
+            "word": "antiquated",
+            "meaning": "adjective: old-fashioned; belonging to an earlier period in time",
+            "sentence": "Aunt Betty had antiquated notions about marriage, believing that a man should court a woman for at least a year before receiving a kiss."
+        },
+        "hamper": {
+            "word": "hamper",
+            "meaning": "verb: prevent the progress or free movement of",
+            "sentence": "As the rain water began to collect in pools on the highway, it began to hamper the flow of traffic."
+        },
+        "inarticulate": {
+            "word": "inarticulate",
+            "meaning": "adjective: without or deprived of the use of speech or words",
+            "sentence": "Although a brilliant economist, Professor Black was completely inarticulate, a terrible lecturer."
+        },
+        "balk": {
+            "word": "balk",
+            "meaning": "verb: refuse to comply",
+            "sentence": "The students were willing to clean up the broken glass, but when the teacher asked them to mop the entire floor, they balked, citing reasons why they needed to leave."
+        },
+        "dilapidated": {
+            "word": "dilapidated",
+            "meaning": "adjective: in terrible condition",
+            "sentence": "The main house has been restored but the gazebo is still dilapidated and unusable."
+        },
+        "aphorism": {
+            "word": "aphorism",
+            "meaning": "noun: a short instructive saying about a general truth",
+            "sentence": "Nietzsche was known for using aphorisms, sometimes encapsulating a complex philosophical thought in a mere sentence."
+        },
+        "chivalrous": {
+            "word": "chivalrous",
+            "meaning": "adjective: being attentive to women like an ideal knight",
+            "sentence": "Medieval tales are full of stories of chivalry, in which a young knight must commit deeds of heroism to win the hand of a fair maiden."
+        },
+        "boorish": {
+            "word": "boorish",
+            "meaning": "adjective: ill-mannered and coarse or contemptible in behavior or appearance",
+            "sentence": "Bukowski was known for being a boorish drunk and alienating close friends and family."
+        },
+        "convivial": {
+            "word": "convivial",
+            "meaning": "adjective: describing a lively atmosphere",
+            "sentence": "The wedding reception was convivial; friends who hadn't seen each other for ages drank and ate together before heading to the dance floor."
+        },
+        "vie": {
+            "word": "vie",
+            "meaning": "verb: compete for something",
+            "sentence": "While the other teams in the division actively vie for the championship, this team seems content simply to go through the motions of playing."
+        },
+        "carping": {
+            "word": "carping",
+            "meaning": "noun: persistently petty and unjustified criticism",
+            "sentence": "What seemed like incessant nagging and carping about my behavior from my mother turned out to be wise and useful advice that has served me well."
+        },
+        "morph": {
+            "word": "morph",
+            "meaning": "verb: To undergo dramatic change in a seamless and barely noticeable fashion.",
+            "sentence": "The earnestness of the daytime talk shows of the 1970's has morphed into something far more sensational and vulgar: today guests actually stand up and threaten to take swings at one another."
+        },
+        "malodorous": {
+            "word": "malodorous",
+            "meaning": "adjective: having an unpleasant smell",
+            "sentence": "Some thermally active fountains spew sulfur fumes--the air around them is sometimes so malodorous that many have to plug their noses."
+        },
+        "vanquish": {
+            "word": "vanquish",
+            "meaning": "verb: come out better in a competition, race, or conflict",
+            "sentence": "For years, Argentina would dominate in World Cup qualifying matches, only to be vanquished by one of the European countries during the late stages of the tournament."
+        },
+        "Magoosh Score Guarantee": {
+            "word": "Magoosh Score Guarantee",
+            "meaning": "noun: Magoosh guarantees a 5 point increase in your score if you've taken the GRE before.  Learn more at http://gre.magoosh.com",
+            "sentence": "With Magoosh, Josh was able to increase his GRE score by 7 points and didn't need to take advantage of the Magoosh score guarantee."
+        },
+        "constraint": {
+            "word": "constraint",
+            "meaning": "noun: something that limits or restricts",
+            "sentence": "We don't have many resources, so we'll have to work with some very tight constraints."
+        },
+        "decimation": {
+            "word": "decimation",
+            "meaning": "noun: destroying or killing a large part of the population",
+            "sentence": "The decimation after atomic bombs were dropped on Hiroshima and Nagasaki is incomprehensible."
+        },
+        "differentiate": {
+            "word": "differentiate",
+            "meanings": [
+                {
+                    "meaning": "verb: be a distinctive feature, attribute, or trait (sometimes in positive sense)",
+                    "sentence": "Mozart's long melodic lines differentiate his compositions from other works of late 18th century music."
+                },
+                {
+                    "meaning": "verb: evolve so as to lead to a new species or develop in a way most suited to the environment",
+                    "sentence": "Animals on Madagascar differentiated from other similar animal species due to many years of isolation on the island."
+                }
+            ]
+        },
+        "creditable": {
+            "word": "creditable",
+            "meaning": "adjective: deserving of praise but not that amazing",
+            "sentence": "Critics agreed the movie was creditable, but few gave it more than three out of five stars."
+        },
+        "futile": {
+            "word": "futile",
+            "meaning": "adjective: producing no result or effect; unproductive of success",
+            "sentence": "I thought I could repair the car myself, but after two days of work with no success, I have to admit that my efforts were futile."
+        },
+        "colossal": {
+            "word": "colossal",
+            "meaning": "adjective: so great in size or force or extent as to elicit awe",
+            "sentence": "Few appreciate the colossal scale of the sun: if hollow, it could contain a million Earths."
+        },
+        "debunk": {
+            "word": "debunk",
+            "meaning": "verb: expose as false ideas and claims, especially while ridiculing",
+            "sentence": "Richard Dawkins tries to debunk religious belief, but his ridicule tends to push people away from his points rather than convince them."
+        },
+        "champion": {
+            "word": "champion",
+            "meaning": "verb: to fight for a cause",
+            "sentence": "Martin Luther King Jr. championed civil rights fiercely throughout his short life."
+        },
+        "inkling": {
+            "word": "inkling",
+            "meaning": "noun: a slight suggestion or vague understanding",
+            "sentence": "Lynne speaks four Romance languages, but she doesn't have an inkling about how East Asian languages are structured."
+        },
+        "enumerate": {
+            "word": "enumerate",
+            "meanings": [
+                {
+                    "meaning": "verb: determine the number or amount of",
+                    "sentence": "The survey enumerates the number of happy workers and the number of unhappy workers."
+                },
+                {
+                    "meaning": "verb: specify individually, one by one",
+                    "sentence": "I sat and listened as she enumerated all of the things she did not like about the past three months."
+                }
+            ]
+        },
+        "abysmal": {
+            "word": "abysmal",
+            "meaning": "adjective: extremely bad",
+            "sentence": "Coach Ramsey took his newest player off the field after watching a few painful minutes of her abysmal performance."
+        },
+        "laborious": {
+            "word": "laborious",
+            "meaning": "adjective: characterized by effort to the point of exhaustion; especially physical effort",
+            "sentence": "The most laborious job I've had was working 20 hours a day as a fisherman in King Salmon, Alaska."
+        },
+        "evasive": {
+            "word": "evasive",
+            "meanings": [
+                {
+                    "meaning": "adjective: avoiding or escaping from difficulty or danger or commitment",
+                    "sentence": "His responses were clearly evasive; he obviously did not want to take on any responsibility or any new work."
+                },
+                {
+                    "meaning": "adjective: deliberately vague or ambiguous",
+                    "sentence": "Every time I call the bank, I receive the same evasive answers about our mortgage and never get a clear response."
+                }
+            ]
+        },
+        "compound": {
+            "word": "compound",
+            "meaning": "verb: make more intense, stronger, or more marked",
+            "sentence": "Her headache was compounded by the construction crew outside, which had six jackhammers going at the same time."
+        },
+        "cumbersome": {
+            "word": "cumbersome",
+            "meaning": "adjective: difficult to handle or use especially because of size or weight",
+            "sentence": "Only ten years ago, being an avid reader and a traveler meant carrying a cumbersome backpack stuffed with books--these days we need only an e-reader."
+        },
+        "provisional": {
+            "word": "provisional",
+            "meaning": "adjective: under terms not final or fully worked out or agreed upon",
+            "sentence": "Until the corporate office hands down a definitive decision on use of the extra offices, we will share their use in a provisional arrangement."
+        },
+        "excruciating": {
+            "word": "excruciating",
+            "meaning": "adjective: extremely painful",
+            "sentence": "After the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating pain."
+        },
+        "paradoxical": {
+            "word": "paradoxical",
+            "meaning": "adjective: seemingly contradictory but nonetheless possibly true",
+            "sentence": "That light could be both a particle and a wave seems paradoxical, but nonetheless, it is true."
+        },
+        "besiege": {
+            "word": "besiege",
+            "meaning": "verb: harass, as with questions or requests; cause to feel distressed or worried",
+            "sentence": "After discovering a priceless artifact in her backyard, Jane was besieged by phone calls, emails, and reporters all trying to buy, hold or see the rare piece of history."
+        },
+        "qualm": {
+            "word": "qualm",
+            "meaning": "noun: uneasiness about the fitness of an action",
+            "sentence": "While he could articulate no clear reason why Harkner's plan would fail, he nevertheless felt qualms about committing any resources to it."
+        },
+        "misogynist": {
+            "word": "misogynist",
+            "meaning": "noun: a person who dislikes women in particular",
+            "sentence": "Many have accused Hemingway of being a quiet misogynist, but recently unearthed letters argue against this belief."
+        },
+        "amply": {
+            "word": "amply",
+            "meaning": "adverb: more than is adequate",
+            "sentence": "The boat was amply supplied for its year at sea—no man would go hungry or thirsty."
+        },
+        "staid": {
+            "word": "staid",
+            "meaning": "adjective: characterized by dignity and propriety",
+            "sentence": "Frank came from a staid environment, so he was shocked that his college roommate sold narcotics."
+        },
+        "obliging": {
+            "word": "obliging",
+            "meaning": "adjective: showing a cheerful willingness to do favors for others",
+            "sentence": "Even after all his success, I found him to be accommodating and obliging, sharing with me his \"secret tips\" on how to gain wealth and make friends."
+        },
+        "sordid": {
+            "word": "sordid",
+            "meaning": "adjective: involving ignoble actions and motives; arousing moral distaste and contempt; foul and run-down and repulsive",
+            "sentence": "The nightly news simply announced that the senator had had an affair, but the tabloid published all the sordid details of the interaction."
+        },
+        "snub": {
+            "word": "snub",
+            "meaning": "verb: refuse to acknowledge; reject outright and bluntly",
+            "sentence": "Wheeler was completely qualified for the committee, but the board snubbed him, choosing an obviously lesser qualified candidate instead."
+        },
+        "complementary": {
+            "word": "complementary",
+            "meaning": "adjective: enhancing each other's qualities (for two things or more).",
+            "sentence": "The head waiter was careful to tell the amateur diners that red wine was complementary with beef, each bringing out subtle taste notes in the other."
+        },
+        "perquisite": {
+            "word": "perquisite",
+            "meaning": "noun: a right reserved exclusively by a particular person or group (especially a hereditary or official right)",
+            "sentence": "Even as the dishwasher at the French restaurant, Josh quickly learned that he had the perquisite of being able to eat terrific food for half the price diners would pay."
+        },
+        "resignation": {
+            "word": "resignation",
+            "meaning": "noun: the acceptance of something unpleasant that can't be avoided",
+            "sentence": "Since Jack could not think of a convincing reason why he had to miss the seminar, he attended it with a sense of resignation."
+        },
+        "discreet": {
+            "word": "discreet",
+            "meaning": "adjective: careful to protect one's speech or actions in order to avoid offense or draw attention",
+            "sentence": "The professor thought that he was discreet, subtly wiping the stain off of his shirt, but as soon as he stepped off the podium a heckler in the audience burst out, \"You missed a spot\".\n "
+        },
+        "miscreant": {
+            "word": "miscreant",
+            "meaning": "noun: a person who breaks the law",
+            "sentence": "\"Come back you miscreant!\" yelled the woman who just had her purse stolen."
+        },
+        "cosmopolitan": {
+            "word": "cosmopolitan",
+            "meaning": "adjective: comprising many cultures; global in reach and outlook",
+            "sentence": "There are few cities in the world as diverse and cosmopolitan as New York."
+        },
+        "dispatch": {
+            "word": "dispatch",
+            "meanings": [
+                {
+                    "meaning": "noun: the property of being prompt and efficient",
+                    "sentence": "She finished her thesis with dispatch, amazing her advisors who couldn't believe she had written 60 scholarly pages so quickly."
+                },
+                {
+                    "meaning": "verb: dispose of rapidly and without delay and efficiently",
+                    "sentence": "As soon as the angry peasants stormed the castle, they caught the king and swiftly dispatched him."
+                }
+            ]
+        },
+        "stymie": {
+            "word": "stymie",
+            "meaning": "verb: hinder or prevent the progress or accomplishment of",
+            "sentence": "The engineers found their plans stymied at every turn and were ultimately able to make almost no progress on the project."
+        },
+        "relegate": {
+            "word": "relegate",
+            "meaning": "verb: assign to a lower position",
+            "sentence": "When Dexter was unable to fulfill his basic duties, instead of firing him, the boss relegated him to kitchen cleanup."
+        }
+    }
 }
