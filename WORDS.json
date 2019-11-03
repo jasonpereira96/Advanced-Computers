@@ -466,7 +466,295 @@
             ]
         }
     },
-    "Common Words III": {},
+    "Common Words III": {
+        "guileless": {
+            "word": "guileless",
+            "meaning": "adjective: free of deceit",
+            "sentence": "At first I thought my niece was guileless, but I then found myself buying her ice cream every time we passed a shop."
+        },
+        "quotidian": {
+            "word": "quotidian",
+            "meaning": "adjective: found in the ordinary course of events",
+            "sentence": "Phil gets so involved thinking about Aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly."
+        },
+        "insidious": {
+            "word": "insidious",
+            "meaning": "adjective: working in a subtle but destructive way",
+            "sentence": "Plaque is insidious: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems."
+        },
+        "juxtapose": {
+            "word": "juxtapose",
+            "meaning": "verb: place side by side for contrast",
+            "sentence": "The appeal of her paintings comes from a classical style which is juxtaposed with modern themes."
+        },
+        "belligerent": {
+            "word": "belligerent",
+            "meaning": "adjective: characteristic of one eager to fight",
+            "sentence": "Tom said that he was arguing the matter purely for philosophical reasons, but his belligerent tone indicated an underlying anger about the issue."
+        },
+        "refractory": {
+            "word": "refractory",
+            "meaning": "adjective: stubbornly resistant to authority or control",
+            "sentence": "Used to studious high school students, Martha was unprepared for the refractory Kindergarteners who neither sat still nor listened to a single word she said."
+        },
+        "itinerant": {
+            "word": "itinerant",
+            "meaning": "adjective: traveling from place to place to work",
+            "sentence": "Doctors used to be itinerant, traveling between patients' homes."
+        },
+        "spurious": {
+            "word": "spurious",
+            "meaning": "adjective: plausible but false",
+            "sentence": "When listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones."
+        },
+        "jingoism": {
+            "word": "jingoism",
+            "meaning": "noun: fanatical patriotism",
+            "sentence": "North Korea maintains intense control over its population through a combination of jingoism and cult of personality."
+        },
+        "travesty": {
+            "word": "travesty",
+            "meaning": "noun: an absurd presentation of something; a mockery",
+            "sentence": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form."
+        },
+        "ameliorate": {
+            "word": "ameliorate",
+            "meaning": "verb: make something bad better",
+            "sentence": "\"Three Cups of Tea\" tells the story of western man who hopes to ameliorate poverty and the lack of education in Afghanistan."
+        },
+        "vilify": {
+            "word": "vilify",
+            "meaning": "verb: spread negative information about",
+            "sentence": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to vilify Todd."
+        },
+        "forlorn": {
+            "word": "forlorn",
+            "meaning": "adjective: marked by or showing hopelessness",
+            "sentence": "After her third pet dog died, Marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy."
+        },
+        "mollify": {
+            "word": "mollify",
+            "meaning": "verb: to make someone angry less angry; placate",
+            "sentence": "In the morning, Janine was unable to mollify Harry, if he happened to become angry, unless he'd had his cup of coffee."
+        },
+        "subsume": {
+            "word": "subsume",
+            "meanings": [
+                {
+                    "meaning": "verb: contain or include",
+                    "sentence": "The rogue wave quickly subsumed the pier and boardwalk, destroying everything in its path."
+                },
+                {
+                    "meaning": "verb: consider (an instance of something) as part of a general rule or principle",
+                    "sentence": "Don Quixote of La Mancha subsumes all other modern novels, demonstrating modern literary devices and predating even the idea of a postmodern, metanarrative."
+                }
+            ]
+        },
+        "avaricious": {
+            "word": "avaricious",
+            "meaning": "adjective: excessively greedy",
+            "sentence": "Since avaricious desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church."
+        },
+        "disaffected": {
+            "word": "disaffected",
+            "meaning": "adjective: discontented as toward authority",
+            "sentence": "After watching his superior take rations from the soldiers, he quickly became disaffected and rebelled."
+        },
+        "apathy": {
+            "word": "apathy",
+            "meaning": "noun: an absence of emotion or enthusiasm",
+            "sentence": "Widespread apathy among voters led to a very small turnout on election day."
+        },
+        "eclectic": {
+            "word": "eclectic",
+            "meaning": "adjective: comprised of a variety of styles",
+            "sentence": "Joey was known for his eclectic tastes in music, one moment dancing to disco the next \"air conducting\" along to Beethoven's 9th symphony."
+        },
+        "fallacious": {
+            "word": "fallacious",
+            "meaning": "adjective: of a belief that is based on faulty reasoning",
+            "sentence": "The widespread belief that Eskimos have forty different words for snow is fallacious, based on one false report."
+        },
+        "derivative": {
+            "word": "derivative",
+            "meaning": "adjective: not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).",
+            "sentence": "Because the movies were utterly derivative of other popular movies, they did well at the box office."
+        },
+        "tantamount": {
+            "word": "tantamount",
+            "meaning": "adjective: being essentially equal to something",
+            "sentence": "In many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence."
+        },
+        "haughty": {
+            "word": "haughty",
+            "meaning": "adjective: having or showing arrogant superiority to and disdain of those one views as unworthy",
+            "sentence": "The haughty manager didn't believe that any of his subordinates could ever have an insight as brilliant as his own."
+        },
+        "immutable": {
+            "word": "immutable",
+            "meaning": "adjective: not able to be changed",
+            "sentence": "Taxes are one of the immutable laws of the land, so there is no use arguing about paying them."
+        },
+        "ascetic": {
+            "word": "ascetic",
+            "meanings": [
+                {
+                    "meaning": "adjective: practicing self-denial",
+                    "sentence": "His ascetic life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty."
+                },
+                {
+                    "meaning": "noun: one who practices great self-denial",
+                    "sentence": "Historically, ascetics like Gandhi are often considered wise men partially because of their restraint."
+                }
+            ]
+        },
+        "elucidate": {
+            "word": "elucidate",
+            "meaning": "verb: make clearer and easier to understand",
+            "sentence": "Youtube is great place to learn just about anything--an expert elucidates finer points so that even a complete novice can learn."
+        },
+        "panache": {
+            "word": "panache",
+            "meaning": "noun: distinctive and showy elegance",
+            "sentence": "Jim, with his typical panache, came to the wedding reception with a top hat and cane."
+        },
+        "incongruous": {
+            "word": "incongruous",
+            "meaning": "adjective: lacking in harmony or compatibility or appropriateness",
+            "sentence": "The vast economic inequality of modern society is incongruous with America's ideals."
+        },
+        "eminent": {
+            "word": "eminent",
+            "meaning": "adjective: standing above others in quality or position",
+            "sentence": "Shakespeare is an eminent author in the English language, but I find his writing uninteresting and melodramatic."
+        },
+        "vehement": {
+            "word": "vehement",
+            "meaning": "adjective: marked by extreme intensity of emotions or convictions",
+            "sentence": "While the other employees responded to the bad news in a measured way, Andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs."
+        },
+        "staunch": {
+            "word": "staunch",
+            "meaning": "adjective: firm and dependable especially in loyalty",
+            "sentence": "No longer a staunch supporter of the movement, Todd now will openly question whether its goals are worthwhile."
+        },
+        "rudimentary": {
+            "word": "rudimentary",
+            "meaning": "adjective: being in the earliest stages of development; being or involving basic facts or principles",
+            "sentence": "I would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most rudimentary stages."
+        },
+        "languid": {
+            "word": "languid",
+            "meaning": "adjective: not inclined towards physical exertion or effort; slow and relaxed",
+            "sentence": "As the sun beat down and the temperature climbed higher, we spent a languid week lying around the house."
+        },
+        "delineate": {
+            "word": "delineate",
+            "meaning": "verb: describe in detail",
+            "sentence": "After a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke."
+        },
+        "treacherous": {
+            "word": "treacherous",
+            "meanings": [
+                {
+                    "meaning": "adjective: tending to betray",
+                    "sentence": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his treacherous actions than for eliminating a criminal and murderer."
+                },
+                {
+                    "meaning": "adjective: dangerously unstable and unpredictable",
+                    "sentence": "The bridge built from twine and vine is treacherous to walk across, and so I think I will stay put right here."
+                }
+            ]
+        },
+        "magnanimous": {
+            "word": "magnanimous",
+            "meaning": "adjective: noble and generous in spirit, especially towards a rival or someone less powerful",
+            "sentence": "He was a great sportsman: in defeat he was complimentary and in victory he was magnanimous."
+        },
+        "ephemeral": {
+            "word": "ephemeral",
+            "meaning": "adjective: lasting a very short time",
+            "sentence": "The lifespan of a mayfly is ephemeral, lasting from a few hours to a couple of days."
+        },
+        "heretic": {
+            "word": "heretic",
+            "meaning": "noun: a person who holds unorthodox opinions in any field (not merely religion)",
+            "sentence": "Though everybody at the gym told Mikey to do cardio before weights, Mikey was a heretic and always did the reverse."
+        },
+        "derive": {
+            "word": "derive",
+            "meanings": [
+                {
+                    "meaning": "verb: come from; be connected by a relationship of blood, for example",
+                    "sentence": "Many words in the English language are derived from Latin, including the word \"derive.\""
+                },
+                {
+                    "meaning": "verb: reason by deduction; establish by deduction",
+                    "sentence": "From the multiple set of footprints in the living room, the investigator derived an important clue: Sheila was not alone in the room at the time of the murder."
+                }
+            ]
+        },
+        "circumvent": {
+            "word": "circumvent",
+            "meaning": "verb: cleverly find a way out of one's duties or obligations",
+            "sentence": "One way of circumventing the GRE is to apply to a grad school that does not require GRE scores."
+        },
+        "abstain": {
+            "word": "abstain",
+            "meaning": "verb: choose not to consume or take part in (particularly something enjoyable)",
+            "sentence": "Considered a health nut, Jessica abstained from anything containing sugar--even chocolate."
+        },
+        "contrive": {
+            "word": "contrive",
+            "meaning": "verb: to pull off a plan or scheme, usually through skill or trickery",
+            "sentence": "Despite a low GPA, he contrived to get into college, going so far as to write his own glowing letters of recommendation."
+        },
+        "precocious": {
+            "word": "precocious",
+            "meaning": "adjective: characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)",
+            "sentence": "Though only seven years old, she was a precocious chess prodigy, able to beat players twice her age."
+        },
+        "frustrate": {
+            "word": "frustrate",
+            "meaning": "verb: hinder or prevent (the efforts, plans, or desires) of",
+            "sentence": "I thought I would finish writing the paper by lunchtime, but a number of urgent interruptions served to frustrate my plan."
+        },
+        "Magoosh Free Trial": {
+            "word": "Magoosh Free Trial",
+            "meaning": "noun: A sample of lesson videos and practice questions to see if Magoosh is right for you.  Learn more at http://gre.magoosh.com",
+            "sentence": "Rachel tried the Magoosh free trial to determine if the premium Magoosh service was worth purchasing."
+        },
+        "negligible": {
+            "word": "negligible",
+            "meaning": "adjective: so small as to be meaningless; insignificant",
+            "sentence": "The GRE tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a negligible impact on your score."
+        },
+        "unequivocal": {
+            "word": "unequivocal",
+            "meaning": "adjective: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion",
+            "sentence": "The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was careful to make his position completely unequivocal."
+        },
+        "supplant": {
+            "word": "supplant",
+            "meaning": "verb: take the place or move into the position of",
+            "sentence": "For many, a cell phone has supplanted a traditional phone; in fact, most 20-somethings don't even have a traditional phone anymore. "
+        },
+        "jubilant": {
+            "word": "jubilant",
+            "meaning": "adjective: full of high-spirited delight because of triumph or success",
+            "sentence": "My hardwork paid off, and I was jubilant to receive a perfect score on the GRE."
+        },
+        "denote": {
+            "word": "denote",
+            "meaning": "verb: be a sign or indication of; have as a meaning",
+            "sentence": "Even if the text is not visible, the red octagon denotes \"stop\" to all motorists in America."
+        },
+        "tenacious": {
+            "word": "tenacious",
+            "meaning": "adjective: stubbornly unyielding",
+            "sentence": "Even the most tenacious advocates for gun ownership must admit some of the dangers that firearms present."
+        }
+    },
     "Common Words IV": {},
     "Common Words V": {
         "lionize": {
